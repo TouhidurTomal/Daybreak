@@ -29,3 +29,4 @@ class MainActivity : ComponentActivity() {
         if (::alarmViewModel.isInitialized) alarmViewModel.onResume()
     }
 }
+/* A test kotlin project to leard kotlin. It is an Alarm App*/
